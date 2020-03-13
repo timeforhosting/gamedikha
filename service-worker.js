@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gamedikha/precache-manifest.fd1a71f4cdd37e953c1e3fd7381e6fd5.js"
+  "/gamedikha/precache-manifest.9c35d4b434b54cfa92a372f98832a5de.js"
 );
 
 self.addEventListener('message', (event) => {

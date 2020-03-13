@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d2455134815edbb8c6963834db55788",
+    "revision": "5c2a5e5521cd707e51e8409e7b72220b",
     "url": "/gamedikha/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gamedikha/static/css/2.6a5f4bf5.chunk.css"
   },
   {
-    "revision": "af5e059362ad8de1e264",
-    "url": "/gamedikha/static/css/main.53a5a95a.chunk.css"
+    "revision": "6c21789e1608285fae22",
+    "url": "/gamedikha/static/css/main.49ff1b5c.chunk.css"
   },
   {
     "revision": "56b3afdcf19bd97225a4",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gamedikha/static/js/2.4f411120.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af5e059362ad8de1e264",
-    "url": "/gamedikha/static/js/main.2d590333.chunk.js"
+    "revision": "6c21789e1608285fae22",
+    "url": "/gamedikha/static/js/main.c9cab428.chunk.js"
   },
   {
     "revision": "3826a48c8fa60a689b34",
