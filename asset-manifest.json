@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gamedikha/static/css/main.53a5a95a.chunk.css",
+    "main.js": "/gamedikha/static/js/main.2d590333.chunk.js",
+    "main.js.map": "/gamedikha/static/js/main.2d590333.chunk.js.map",
+    "runtime-main.js": "/gamedikha/static/js/runtime-main.f8c6fe6b.js",
+    "runtime-main.js.map": "/gamedikha/static/js/runtime-main.f8c6fe6b.js.map",
+    "static/css/2.6a5f4bf5.chunk.css": "/gamedikha/static/css/2.6a5f4bf5.chunk.css",
+    "static/js/2.4f411120.chunk.js": "/gamedikha/static/js/2.4f411120.chunk.js",
+    "static/js/2.4f411120.chunk.js.map": "/gamedikha/static/js/2.4f411120.chunk.js.map",
+    "index.html": "/gamedikha/index.html",
+    "precache-manifest.fd1a71f4cdd37e953c1e3fd7381e6fd5.js": "/gamedikha/precache-manifest.fd1a71f4cdd37e953c1e3fd7381e6fd5.js",
+    "service-worker.js": "/gamedikha/service-worker.js",
+    "static/css/2.6a5f4bf5.chunk.css.map": "/gamedikha/static/css/2.6a5f4bf5.chunk.css.map",
+    "static/css/main.53a5a95a.chunk.css.map": "/gamedikha/static/css/main.53a5a95a.chunk.css.map",
+    "static/js/2.4f411120.chunk.js.LICENSE.txt": "/gamedikha/static/js/2.4f411120.chunk.js.LICENSE.txt",
+    "static/media/first_medal.png": "/gamedikha/static/media/first_medal.213b6e01.png",
+    "static/media/game.png": "/gamedikha/static/media/game.483b05d9.png",
+    "static/media/game_dikha.mp4": "/gamedikha/static/media/game_dikha.041fd575.mp4",
+    "static/media/i1.jpg": "/gamedikha/static/media/i1.ed13c2a7.jpg",
+    "static/media/i2.jpg": "/gamedikha/static/media/i2.8b90e339.jpg",
+    "static/media/i3.jpg": "/gamedikha/static/media/i3.a89d570e.jpg",
+    "static/media/i5.jpg": "/gamedikha/static/media/i5.2e7c5bf6.jpg",
+    "static/media/no_medal.png": "/gamedikha/static/media/no_medal.be38af65.png",
+    "static/media/point_trophy.png": "/gamedikha/static/media/point_trophy.25876fdc.png",
+    "static/media/second_medal.png": "/gamedikha/static/media/second_medal.e2505abd.png",
+    "static/media/the.png": "/gamedikha/static/media/the.943c2904.png",
+    "static/media/third_medal.png": "/gamedikha/static/media/third_medal.dd2a36f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c6fe6b.js",
+    "static/css/2.6a5f4bf5.chunk.css",
+    "static/js/2.4f411120.chunk.js",
+    "static/css/main.53a5a95a.chunk.css",
+    "static/js/main.2d590333.chunk.js"
+  ]
+}
