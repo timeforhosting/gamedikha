@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/gamedikha/static/css/main.a0b0b38d.chunk.css",
-    "main.js": "/gamedikha/static/js/main.8a15f8f7.chunk.js",
-    "main.js.map": "/gamedikha/static/js/main.8a15f8f7.chunk.js.map",
+    "main.js": "/gamedikha/static/js/main.9cea00e3.chunk.js",
+    "main.js.map": "/gamedikha/static/js/main.9cea00e3.chunk.js.map",
     "runtime-main.js": "/gamedikha/static/js/runtime-main.f8c6fe6b.js",
     "runtime-main.js.map": "/gamedikha/static/js/runtime-main.f8c6fe6b.js.map",
     "static/css/2.6a5f4bf5.chunk.css": "/gamedikha/static/css/2.6a5f4bf5.chunk.css",
-    "static/js/2.c6675368.chunk.js": "/gamedikha/static/js/2.c6675368.chunk.js",
-    "static/js/2.c6675368.chunk.js.map": "/gamedikha/static/js/2.c6675368.chunk.js.map",
+    "static/js/2.05d52f6c.chunk.js": "/gamedikha/static/js/2.05d52f6c.chunk.js",
+    "static/js/2.05d52f6c.chunk.js.map": "/gamedikha/static/js/2.05d52f6c.chunk.js.map",
     "index.html": "/gamedikha/index.html",
-    "precache-manifest.93d4aedf87bb9dd5e04739b547c7f240.js": "/gamedikha/precache-manifest.93d4aedf87bb9dd5e04739b547c7f240.js",
+    "precache-manifest.9238b4779696d21a89e16b59f81c35da.js": "/gamedikha/precache-manifest.9238b4779696d21a89e16b59f81c35da.js",
     "service-worker.js": "/gamedikha/service-worker.js",
     "static/css/2.6a5f4bf5.chunk.css.map": "/gamedikha/static/css/2.6a5f4bf5.chunk.css.map",
     "static/css/main.a0b0b38d.chunk.css.map": "/gamedikha/static/css/main.a0b0b38d.chunk.css.map",
-    "static/js/2.c6675368.chunk.js.LICENSE.txt": "/gamedikha/static/js/2.c6675368.chunk.js.LICENSE.txt",
+    "static/js/2.05d52f6c.chunk.js.LICENSE.txt": "/gamedikha/static/js/2.05d52f6c.chunk.js.LICENSE.txt",
+    "static/media/a1.jpeg": "/gamedikha/static/media/a1.69324570.jpeg",
+    "static/media/a2.jpeg": "/gamedikha/static/media/a2.25e55b61.jpeg",
+    "static/media/a3.jpeg": "/gamedikha/static/media/a3.dac3fdbb.jpeg",
+    "static/media/a5.jpeg": "/gamedikha/static/media/a5.6061faaf.jpeg",
     "static/media/first_medal.png": "/gamedikha/static/media/first_medal.213b6e01.png",
     "static/media/game.png": "/gamedikha/static/media/game.483b05d9.png",
     "static/media/game_dikha.mp4": "/gamedikha/static/media/game_dikha.041fd575.mp4",
-    "static/media/i1.jpg": "/gamedikha/static/media/i1.ed13c2a7.jpg",
-    "static/media/i2.jpg": "/gamedikha/static/media/i2.8b90e339.jpg",
-    "static/media/i3.jpg": "/gamedikha/static/media/i3.a89d570e.jpg",
     "static/media/i5.jpg": "/gamedikha/static/media/i5.2e7c5bf6.jpg",
     "static/media/no_medal.png": "/gamedikha/static/media/no_medal.be38af65.png",
     "static/media/point_trophy.png": "/gamedikha/static/media/point_trophy.25876fdc.png",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.f8c6fe6b.js",
     "static/css/2.6a5f4bf5.chunk.css",
-    "static/js/2.c6675368.chunk.js",
+    "static/js/2.05d52f6c.chunk.js",
     "static/css/main.a0b0b38d.chunk.css",
-    "static/js/main.8a15f8f7.chunk.js"
+    "static/js/main.9cea00e3.chunk.js"
   ]
 }
